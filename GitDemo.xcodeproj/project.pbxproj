@@ -15,6 +15,7 @@
 		48D40A6A1BF99E23009D6E84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48D40A681BF99E23009D6E84 /* LaunchScreen.storyboard */; };
 		48D40A751BF99E23009D6E84 /* GitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48D40A741BF99E23009D6E84 /* GitDemoTests.m */; };
 		48D40A801BF99E23009D6E84 /* GitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48D40A7F1BF99E23009D6E84 /* GitDemoUITests.m */; };
+		48D40A8F1BF9A15C009D6E84 /* TeetClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 48D40A8E1BF9A15C009D6E84 /* TeetClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		48D40A7B1BF99E23009D6E84 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48D40A7F1BF99E23009D6E84 /* GitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitDemoUITests.m; sourceTree = "<group>"; };
 		48D40A811BF99E23009D6E84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48D40A8D1BF9A15C009D6E84 /* TeetClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeetClass.h; sourceTree = "<group>"; };
+		48D40A8E1BF9A15C009D6E84 /* TeetClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeetClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				48D40A5E1BF99E23009D6E84 /* AppDelegate.m */,
 				48D40A601BF99E23009D6E84 /* ViewController.h */,
 				48D40A611BF99E23009D6E84 /* ViewController.m */,
+				48D40A8D1BF9A15C009D6E84 /* TeetClass.h */,
+				48D40A8E1BF9A15C009D6E84 /* TeetClass.m */,
 				48D40A631BF99E23009D6E84 /* Main.storyboard */,
 				48D40A661BF99E23009D6E84 /* Assets.xcassets */,
 				48D40A681BF99E23009D6E84 /* LaunchScreen.storyboard */,
@@ -272,6 +277,7 @@
 			files = (
 				48D40A621BF99E23009D6E84 /* ViewController.m in Sources */,
 				48D40A5F1BF99E23009D6E84 /* AppDelegate.m in Sources */,
+				48D40A8F1BF9A15C009D6E84 /* TeetClass.m in Sources */,
 				48D40A5C1BF99E23009D6E84 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

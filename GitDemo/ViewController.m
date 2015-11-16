@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property (nonatomic) int sum;
+@property (nonatomic,strong) TeetClass *testClass;
 @end
 
 @implementation ViewController
