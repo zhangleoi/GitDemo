@@ -27,12 +27,12 @@
     
     [self sayByeBye];
 }
+-(void)sayHello{
+    NSLog(@"Hello word");
+}
 -(void)sayByeBye
 {
     NSLog(@"Bye-Bye~~");
-}
--(void)sayHello{
-    NSLog(@"Hello word");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
