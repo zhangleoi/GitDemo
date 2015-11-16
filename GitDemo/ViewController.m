@@ -34,6 +34,9 @@
 {
     NSLog(@"Bye-Bye~~");
 }
+-(void)aVeryCoolMethod{
+    NSLog(@"I'm feeling that you'll discard me... Really?");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

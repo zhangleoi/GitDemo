@@ -12,5 +12,7 @@
 -(void)sayHello;
 
 -(void)sayByeBye;
+
+-(void)aVeryCoolMethod;
 @end
 
