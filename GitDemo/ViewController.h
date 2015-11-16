@@ -10,6 +10,6 @@
 #import "TeetClass.h"
 @interface ViewController : UIViewController
 
-
+-(void)sayByeBye;
 @end
 
