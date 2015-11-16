@@ -25,10 +25,13 @@
     
     NSLog(@"The result is: %d", self.sum);
 }
-
+-(void)sayHello{
+    NSLog(@"Hello word");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    [self sayHello];
 }
 
 @end

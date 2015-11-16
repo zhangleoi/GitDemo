@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "TeetClass.h"
 @interface ViewController : UIViewController
-
+-(void)sayHello;
 
 @end
 
